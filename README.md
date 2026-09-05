@@ -2,6 +2,13 @@
 
 An AI-powered customer support analysis engine that uses multiple foundation models to analyze customer inquiries and return structured, machine-readable results.
 
+# AI Support Engine
+
+![AI Support Engine Demo](assets/web-interface.png)
+
+An AI-powered customer support analysis engine that uses multiple foundation models to analyze customer inquiries and return structured, machine-readable results.
+
+
 ## Overview
 
 AI Support Engine is primarily designed as a backend AI service.
