@@ -199,6 +199,3 @@ Use environment variables or a secure secrets-management system when configuring
 - Improve error handling
 - Expand customer inquiry categories
 
-## License
-
-This project is provided for educational and portfolio purposes.
